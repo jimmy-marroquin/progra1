@@ -21,5 +21,11 @@ namespace primer_proyecto
         {
 
         }
+
+        private void btnSALUDAR_Click(object sender, EventArgs e)
+        {
+            lblSALUDO.Text = "¡Hola!" + txtNOMBRE.Text + "!";
+
+        }
     }
 }

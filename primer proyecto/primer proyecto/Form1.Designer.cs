@@ -28,26 +28,69 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.lbl = new System.Windows.Forms.Label();
+            this.btnSALUDAR = new System.Windows.Forms.Button();
+            this.lblSALUDO = new System.Windows.Forms.Label();
+            this.txtNOMBRE = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lbl
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(372, 53);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(62, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "hola mundo";
+            this.lbl.AutoSize = true;
+            this.lbl.Location = new System.Drawing.Point(124, 96);
+            this.lbl.Name = "lbl";
+            this.lbl.Size = new System.Drawing.Size(54, 13);
+            this.lbl.TabIndex = 0;
+            this.lbl.Text = "NOMBRE";
+            // 
+            // btnSALUDAR
+            // 
+            this.btnSALUDAR.Location = new System.Drawing.Point(146, 148);
+            this.btnSALUDAR.Name = "btnSALUDAR";
+            this.btnSALUDAR.Size = new System.Drawing.Size(163, 77);
+            this.btnSALUDAR.TabIndex = 1;
+            this.btnSALUDAR.Text = "SALUDAR";
+            this.btnSALUDAR.UseVisualStyleBackColor = true;
+            this.btnSALUDAR.Click += new System.EventHandler(this.btnSALUDAR_Click);
+            // 
+            // lblSALUDO
+            // 
+            this.lblSALUDO.AutoSize = true;
+            this.lblSALUDO.Location = new System.Drawing.Point(143, 276);
+            this.lblSALUDO.Name = "lblSALUDO";
+            this.lblSALUDO.Size = new System.Drawing.Size(36, 13);
+            this.lblSALUDO.TabIndex = 2;
+            this.lblSALUDO.Text = "HOLA";
+            // 
+            // txtNOMBRE
+            // 
+            this.txtNOMBRE.Location = new System.Drawing.Point(186, 96);
+            this.txtNOMBRE.Name = "txtNOMBRE";
+            this.txtNOMBRE.Size = new System.Drawing.Size(142, 20);
+            this.txtNOMBRE.TabIndex = 3;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(309, 276);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.txtNOMBRE);
+            this.Controls.Add(this.lblSALUDO);
+            this.Controls.Add(this.btnSALUDAR);
+            this.Controls.Add(this.lbl);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "HOLA";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -56,7 +99,11 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lbl;
+        private System.Windows.Forms.Button btnSALUDAR;
+        private System.Windows.Forms.Label lblSALUDO;
+        private System.Windows.Forms.TextBox txtNOMBRE;
+        private System.Windows.Forms.Button button1;
     }
 }
 
