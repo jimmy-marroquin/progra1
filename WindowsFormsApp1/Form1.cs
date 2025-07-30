@@ -20,5 +20,18 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void btncalcular_Click(object sender, EventArgs e)
+        {
+            double num1, num2, respuesta;
+            num1 = double.Parse( txtnum1.Text);
+
+            num2 = double.Parse(txtnum2.Text);
+
+            respuesta = num1 + num2;
+
+            lblrespuesta.Text = "Respuesta" + respuesta;
+
+        }
     }
 }

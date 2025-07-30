@@ -1,0 +1,9 @@
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Users\Estudiante\Documentos\marroquin2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
