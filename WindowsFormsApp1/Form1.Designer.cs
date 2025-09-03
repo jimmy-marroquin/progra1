@@ -35,30 +35,34 @@ namespace WindowsFormsApp1
             this.txtnum2 = new System.Windows.Forms.TextBox();
             this.lblnum2 = new System.Windows.Forms.Label();
             this.lblrespuesta = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblnum1
             // 
             this.lblnum1.AutoSize = true;
-            this.lblnum1.Location = new System.Drawing.Point(286, 92);
+            this.lblnum1.Location = new System.Drawing.Point(381, 113);
+            this.lblnum1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblnum1.Name = "lblnum1";
-            this.lblnum1.Size = new System.Drawing.Size(36, 13);
+            this.lblnum1.Size = new System.Drawing.Size(42, 16);
             this.lblnum1.TabIndex = 0;
             this.lblnum1.Text = "num 1";
             this.lblnum1.Click += new System.EventHandler(this.label1_Click);
             // 
             // txtnum1
             // 
-            this.txtnum1.Location = new System.Drawing.Point(328, 85);
+            this.txtnum1.Location = new System.Drawing.Point(437, 105);
+            this.txtnum1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtnum1.Name = "txtnum1";
-            this.txtnum1.Size = new System.Drawing.Size(100, 20);
+            this.txtnum1.Size = new System.Drawing.Size(132, 22);
             this.txtnum1.TabIndex = 1;
             // 
             // btncalcular
             // 
-            this.btncalcular.Location = new System.Drawing.Point(328, 211);
+            this.btncalcular.Location = new System.Drawing.Point(437, 260);
+            this.btncalcular.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btncalcular.Name = "btncalcular";
-            this.btncalcular.Size = new System.Drawing.Size(100, 58);
+            this.btncalcular.Size = new System.Drawing.Size(133, 71);
             this.btncalcular.TabIndex = 2;
             this.btncalcular.Text = "calcular";
             this.btncalcular.UseVisualStyleBackColor = true;
@@ -66,40 +70,55 @@ namespace WindowsFormsApp1
             // 
             // txtnum2
             // 
-            this.txtnum2.Location = new System.Drawing.Point(328, 130);
+            this.txtnum2.Location = new System.Drawing.Point(437, 160);
+            this.txtnum2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtnum2.Name = "txtnum2";
-            this.txtnum2.Size = new System.Drawing.Size(100, 20);
+            this.txtnum2.Size = new System.Drawing.Size(132, 22);
             this.txtnum2.TabIndex = 4;
             // 
             // lblnum2
             // 
             this.lblnum2.AutoSize = true;
-            this.lblnum2.Location = new System.Drawing.Point(286, 137);
+            this.lblnum2.Location = new System.Drawing.Point(381, 169);
+            this.lblnum2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblnum2.Name = "lblnum2";
-            this.lblnum2.Size = new System.Drawing.Size(36, 13);
+            this.lblnum2.Size = new System.Drawing.Size(42, 16);
             this.lblnum2.TabIndex = 3;
             this.lblnum2.Text = "num 2";
             // 
             // lblrespuesta
             // 
             this.lblrespuesta.AutoSize = true;
-            this.lblrespuesta.Location = new System.Drawing.Point(286, 163);
+            this.lblrespuesta.Location = new System.Drawing.Point(381, 201);
+            this.lblrespuesta.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblrespuesta.Name = "lblrespuesta";
-            this.lblrespuesta.Size = new System.Drawing.Size(59, 13);
+            this.lblrespuesta.Size = new System.Drawing.Size(74, 16);
             this.lblrespuesta.TabIndex = 5;
             this.lblrespuesta.Text = "respuesta?";
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(220, 278);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(133, 71);
+            this.button1.TabIndex = 6;
+            this.button1.Text = "calcular";
+            this.button1.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lblrespuesta);
             this.Controls.Add(this.txtnum2);
             this.Controls.Add(this.lblnum2);
             this.Controls.Add(this.btncalcular);
             this.Controls.Add(this.txtnum1);
             this.Controls.Add(this.lblnum1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -115,6 +134,7 @@ namespace WindowsFormsApp1
         private System.Windows.Forms.TextBox txtnum2;
         private System.Windows.Forms.Label lblnum2;
         private System.Windows.Forms.Label lblrespuesta;
+        private System.Windows.Forms.Button button1;
     }
 }
 
