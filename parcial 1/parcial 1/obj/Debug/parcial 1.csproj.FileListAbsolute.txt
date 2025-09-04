@@ -1,0 +1,10 @@
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial 1.csproj.AssemblyReference.cache
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial_1.Form1.resources
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial_1.Properties.Resources.resources
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial 1.csproj.GenerateResource.cache
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial 1.csproj.CoreCompileInputs.cache
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\bin\Debug\parcial 1.exe.config
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\bin\Debug\parcial 1.exe
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\bin\Debug\parcial 1.pdb
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial 1.exe
+C:\Users\JIMMY\OneDrive\Desktop\progra1.git\parcial 1\parcial 1\obj\Debug\parcial 1.pdb
