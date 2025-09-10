@@ -1,0 +1,12 @@
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe.config
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\bin\Debug\primer proyecto.exe
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\bin\Debug\primer proyecto.pdb
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.AssemblyReference.cache
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form1.resources
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Properties.Resources.resources
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.GenerateResource.cache
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer proyecto.pdb
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer proyecto.exe.config
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form2.resources

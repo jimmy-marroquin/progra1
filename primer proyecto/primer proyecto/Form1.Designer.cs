@@ -32,23 +32,24 @@
             this.btnSALUDAR = new System.Windows.Forms.Button();
             this.lblSALUDO = new System.Windows.Forms.Label();
             this.txtNOMBRE = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbl
             // 
             this.lbl.AutoSize = true;
-            this.lbl.Location = new System.Drawing.Point(124, 96);
+            this.lbl.Location = new System.Drawing.Point(165, 118);
+            this.lbl.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbl.Name = "lbl";
-            this.lbl.Size = new System.Drawing.Size(54, 13);
+            this.lbl.Size = new System.Drawing.Size(66, 16);
             this.lbl.TabIndex = 0;
             this.lbl.Text = "NOMBRE";
             // 
             // btnSALUDAR
             // 
-            this.btnSALUDAR.Location = new System.Drawing.Point(146, 148);
+            this.btnSALUDAR.Location = new System.Drawing.Point(195, 182);
+            this.btnSALUDAR.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSALUDAR.Name = "btnSALUDAR";
-            this.btnSALUDAR.Size = new System.Drawing.Size(163, 77);
+            this.btnSALUDAR.Size = new System.Drawing.Size(217, 95);
             this.btnSALUDAR.TabIndex = 1;
             this.btnSALUDAR.Text = "SALUDAR";
             this.btnSALUDAR.UseVisualStyleBackColor = true;
@@ -57,38 +58,31 @@
             // lblSALUDO
             // 
             this.lblSALUDO.AutoSize = true;
-            this.lblSALUDO.Location = new System.Drawing.Point(143, 276);
+            this.lblSALUDO.Location = new System.Drawing.Point(191, 340);
+            this.lblSALUDO.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblSALUDO.Name = "lblSALUDO";
-            this.lblSALUDO.Size = new System.Drawing.Size(36, 13);
+            this.lblSALUDO.Size = new System.Drawing.Size(43, 16);
             this.lblSALUDO.TabIndex = 2;
             this.lblSALUDO.Text = "HOLA";
             // 
             // txtNOMBRE
             // 
-            this.txtNOMBRE.Location = new System.Drawing.Point(186, 96);
+            this.txtNOMBRE.Location = new System.Drawing.Point(248, 118);
+            this.txtNOMBRE.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtNOMBRE.Name = "txtNOMBRE";
-            this.txtNOMBRE.Size = new System.Drawing.Size(142, 20);
+            this.txtNOMBRE.Size = new System.Drawing.Size(188, 22);
             this.txtNOMBRE.TabIndex = 3;
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(309, 276);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
             this.Controls.Add(this.txtNOMBRE);
             this.Controls.Add(this.lblSALUDO);
             this.Controls.Add(this.btnSALUDAR);
             this.Controls.Add(this.lbl);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "HOLA";
             this.Load += new System.EventHandler(this.Form1_Load);
@@ -103,7 +97,6 @@
         private System.Windows.Forms.Button btnSALUDAR;
         private System.Windows.Forms.Label lblSALUDO;
         private System.Windows.Forms.TextBox txtNOMBRE;
-        private System.Windows.Forms.Button button1;
     }
 }
 

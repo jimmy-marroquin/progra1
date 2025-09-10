@@ -28,12 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.lblMundo = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblMundo
+            // 
+            this.lblMundo.AutoSize = true;
+            this.lblMundo.Font = new System.Drawing.Font("Perpetua Titling MT", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMundo.Location = new System.Drawing.Point(91, 99);
+            this.lblMundo.Name = "lblMundo";
+            this.lblMundo.Size = new System.Drawing.Size(343, 48);
+            this.lblMundo.TabIndex = 0;
+            this.lblMundo.Text = "HOLA MUNDO!";
+            // 
+            // Form2
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblMundo);
+            this.Name = "Form2";
             this.Text = "Form2";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Label lblMundo;
     }
 }
