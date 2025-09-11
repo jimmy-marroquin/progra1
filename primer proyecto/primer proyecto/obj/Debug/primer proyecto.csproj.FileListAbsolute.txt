@@ -14,3 +14,5 @@ C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer p
 C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form4.resources
 C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form5.resources
 C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form6.resources
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form7.resources
+C:\Users\Ulloa\OneDrive\Desktop\Repositorio\progra1.git\primer proyecto\primer proyecto\obj\Debug\primer_proyecto.Form8.resources
