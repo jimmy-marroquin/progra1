@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|c:\\users\\ulloa\\onedrive\\desktop\\repositorio\\progra1.git\\primer proyecto\\primer proyecto\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|solutionrelative:primer proyecto\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|c:\\users\\ulloa\\onedrive\\desktop\\repositorio\\progra1.git\\primer proyecto\\primer proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|solutionrelative:primer proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|c:\\users\\ulloa\\onedrive\\desktop\\repositorio\\progra1.git\\primer proyecto\\primer proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|solutionrelative:primer proyecto\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|c:\\users\\ulloa\\onedrive\\desktop\\repositorio\\progra1.git\\primer proyecto\\primer proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|solutionrelative:primer proyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|c:\\users\\ulloa\\onedrive\\desktop\\repositorio\\progra1.git\\primer proyecto\\primer proyecto\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|solutionrelative:primer proyecto\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|c:\\users\\ulloa\\onedrive\\desktop\\repositorio\\progra1.git\\primer proyecto\\primer proyecto\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D869938-E6AF-4A93-B10A-604B1500C5AE}|primer proyecto\\primer proyecto.csproj|solutionrelative:primer proyecto\\form4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,32 +50,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form3.cs",
-              "DocumentMoniker": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form3.cs",
-              "RelativeDocumentMoniker": "primer proyecto\\Form3.cs",
-              "ToolTip": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form3.cs",
-              "RelativeToolTip": "primer proyecto\\Form3.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Form4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form4.Designer.cs",
+              "RelativeDocumentMoniker": "primer proyecto\\Form4.Designer.cs",
+              "ToolTip": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form4.Designer.cs",
+              "RelativeToolTip": "primer proyecto\\Form4.Designer.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAAwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T23:55:34.177Z",
+              "WhenOpened": "2025-09-11T00:13:30.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form3.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form3.cs",
-              "RelativeDocumentMoniker": "primer proyecto\\Form3.cs",
-              "ToolTip": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form3.cs [Dise\u00F1o]",
-              "RelativeToolTip": "primer proyecto\\Form3.cs [Dise\u00F1o]",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form4.cs",
+              "RelativeDocumentMoniker": "primer proyecto\\Form4.cs",
+              "ToolTip": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form4.cs",
+              "RelativeToolTip": "primer proyecto\\Form4.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwGgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T23:53:58.654Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-09-11T00:13:20.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form4.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form4.cs",
+              "RelativeDocumentMoniker": "primer proyecto\\Form4.cs",
+              "ToolTip": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Form4.cs [Dise\u00F1o]",
+              "RelativeToolTip": "primer proyecto\\Form4.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:11:57.29Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ulloa\\OneDrive\\Desktop\\Repositorio\\progra1.git\\primer proyecto\\primer proyecto\\Program.cs",
               "RelativeDocumentMoniker": "primer proyecto\\Program.cs",
