@@ -1,2 +1,3 @@
 # progra1
 programacion computacional 1 LC10 - KILO 141
+# como puede mirar ingeniero los proyectos fueron subidos todos al mismo tiempo la razon de esto es que yo al no tener laptop los avances que se realizaban presencial no los podias hacer ya que yo tengo computadora de escritorio y en las de la universidad al tener la version de visual estudio 2019 me daba errores al querer hacer los cambios al igual que en mi computadora por el cambio de version sin embargo lo que hice fue eliminar los avances que tenia lo cuales estaban malos por que no los podia terminar por los mismos errores y hacerlos de nuevo ya corregidos se lo explique en una clase y me dijo que estaba bien 
