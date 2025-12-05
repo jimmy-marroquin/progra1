@@ -1,0 +1,33 @@
+﻿using Microsoft.EntityFrameworkCore;
+using System.Numerics;
+
+namespace proyectoFinal.Models
+{
+    public class MyDbContext : DbContext
+    {
+        public MyDbContext(DbContextOptions<MyDbContext> options) : base(options) { }
+
+        public DbSet<Rol> Roles { get; set; }
+        public DbSet<Empleado> Empleados { get; set; }
+       
+
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Rol>().ToTable("Roles").HasKey(r => r.IdRol);
+            modelBuilder.Entity<Empleado>().ToTable("Empleados").HasKey(e => e.IdEmpleado);
+           
+
+
+            modelBuilder.Entity<Empleado>()
+                .HasOne(e => e.Rol)
+                .WithMany(r => r.Empleados)
+                .HasForeignKey(e => e.IdRol);
+
+
+
+
+        }
+    }
+}
+
